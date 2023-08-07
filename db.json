@@ -1,0 +1,18 @@
+{
+  "identificacaoEntrevistado": {
+    "nomeCompleto": "João da Silva",
+    "nomeSocial": "Joana da Silva"
+  },
+  "identificacaoImovel": {
+    "endereco": {
+      "logradouro": "Rua das Flores, 123"
+    },
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "01234-567",
+    "subprefeitura": "Centro",
+    "distrito": "Centro",
+    "dataOcupacao": "15/07/2022",
+    "dataReocupacao": "01/01/2023"
+  }
+}
