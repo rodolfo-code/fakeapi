@@ -1,25 +1,25 @@
 {
-   dadosEntrevista: {
-        numeroQuestionario: 300,
-        nomeEntrevistador: "Entrevistador Rodolfo",
-        dataEntrevista: "",
-        horaInicio: "",
-        horaFim: "",
+   "dadosEntrevista": {
+        "numeroQuestionario": 300,
+        "nomeEntrevistador": "Entrevistador Rodolfo",
+        "dataEntrevista": "",
+        "horaInicio": "",
+        "horaFim": ""
     },
-    identificacaoEntrevistado: {
-        nomeCompleto: "João da Silva",
-        nomeSocial: "Joana da Silva",
+    "identificacaoEntrevistado": {
+        "nomeCompleto": "João da Silva",
+        "nomeSocial": "Joana da Silva"
     },
-    identificacaoImovel: {
-        endereco: {
-            logradouro: "Rua das Flores, 123",
+    "identificacaoImovel": {
+        "endereco": {
+            "logradouro": "Rua das Flores, 123"
         },
-        cidade: "São Paulo",
-        estado: "SP",
-        cep: "01234-567",
-        subprefeitura: "Centro",
-        distrito: "Centro",
-        dataOcupacao: "15/07/2022",
-        dataReocupacao: "01/01/2023",
+        "cidade": "São Paulo",
+        "estado": "SP",
+        "cep": "01234-567",
+        "subprefeitura": "Centro",
+        "distrito": "Centro",
+        "dataOcupacao": "15/07/2022",
+        "dataReocupacao": "01/01/2023"
     }
 }
